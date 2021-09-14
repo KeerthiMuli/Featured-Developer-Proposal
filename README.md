@@ -4,4 +4,4 @@
 <li> We intend to use Java/Spring Boot as the backend because it facilitates the development of rapid app solutions.</li>
 <ol>
 
-  [## Link to RFP ](https://github.com/akhilmallepally/featured-developers/)
+ ## [Link to RFP ](https://github.com/akhilmallepally/featured-developers/)
