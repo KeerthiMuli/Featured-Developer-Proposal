@@ -14,3 +14,5 @@ Set by the GDP semesters (about every 2-weeks = a sprint)
   <li>Sprint 3- Continue Development.</li>
   <li>Sprint 4- Testing and Implementation.</li>
   </ol>
+### Client Tasks
+Please provide us your Acceptance and feedback on the mock-up screens, as well as the essential approvals for the Technology Stack.
