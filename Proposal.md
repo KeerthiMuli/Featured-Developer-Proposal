@@ -31,6 +31,9 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
 
 ### MockUp Screens
 
+![Home page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/openpage.PNG)
+![Developes Details Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/page2.jpg)
+
 ### References
 [Reference Link](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)
 
