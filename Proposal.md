@@ -17,3 +17,13 @@ Set by the GDP semesters (about every 2-weeks = a sprint)
   
 ### Client Tasks
 Please provide us your Acceptance and feedback on the mock-up screens, as well as the essential approvals for the Technology Stack.
+
+### Technology Stack
+<ol>
+  <li> Backend language + framework: Java/SpringBoot </li>
+  <li> Backend free app host : Heroku </li>
+  <li> Data host + type: Heroku PostgresSQL </li>
+  <li> Front-end page plan : Vue </li>
+  <li> Front-end responsive design: Bootstrap and Flex </li>
+  </ol>
+
