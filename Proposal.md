@@ -8,7 +8,9 @@ Set by the GDP semesters (about every 2-weeks = a sprint)
 | 2    | [Keerthi Muli](https://github.com/KeerthiMuli/)                   | Back-end Developer | $50 | 9 - 12 | $450 - $600 |
 
 ### Scope of work
-Sprint 1- Gathering Requirements, Knowing Specifications
-Sprint 2- Development
-Sprint 3- Continue Development
-Sprint 4- Testing and Implementation
+<ol>
+  <li>Sprint 1- Gathering Requirements, Knowing Specifications.</li>
+  <li>Sprint 2- Development.</li>
+  <li>Sprint 3- Continue Development.</li>
+  <li>Sprint 4- Testing and Implementation.</li>
+  </ol>
