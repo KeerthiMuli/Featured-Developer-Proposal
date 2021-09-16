@@ -1,13 +1,13 @@
-## Proposal for Featured Developer
-### Schedule
+# Proposal for Featured Developer
+## Schedule
 Set by the GDP semesters (about every 2-weeks = a sprint)
-### Budget
+## Budget
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
 | 1    | [Rasagna Reddy Banda](https://github.com/Rasagna0409/)           | Front-End Developer  | $50 |   9 - 12 |  $450 - $600 |
 | 2    | [Keerthi Muli](https://github.com/KeerthiMuli/)                   | Back-end Developer | $50 | 9 - 12 | $450 - $600 |
 
-### Scope of work
+## Scope of work
 <ol>
   <li>Sprint 1- Gathering Requirements, Knowing Specifications.</li>
   <li>Sprint 2- Development.</li>
@@ -15,10 +15,10 @@ Set by the GDP semesters (about every 2-weeks = a sprint)
   <li>Sprint 4- Testing and Implementation.</li>
   </ol>
   
-### Client Tasks
+## Client Tasks
 Please provide us your acceptance and feedback on the mock-up screens, as well as the essential approvals for the Technology Stack.
 
-### Technology Stack
+## Technology Stack
 <ol>
   <li> Backend language + framework: Java/SpringBoot </li>
   <li> Backend free app host : Heroku </li>
@@ -27,9 +27,9 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
   <li> Front-end responsive design: Bootstrap and Flex </li>
   </ol>
 
-### Entities
+## Entities
 
-### MockUp Screens
+## MockUp Screens
 
 ## Home Page
 ![Home page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/openpage.PNG)
@@ -37,6 +37,6 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
 ## Developers Details Page
 ![Developes Details Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/page2.jpg)
 
-### References
+## References
 [Reference Link](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)
 
