@@ -29,6 +29,29 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
 
 ## Entities
 
+Entities used:
+
+- Users
+    - Email
+    - Password
+    - CreatedOn
+    - isDeleted
+ - Developer
+    - DeveloperId
+    - Name
+    - Skills
+    - CurrentRole
+    - Phone
+    - Image
+    - Attainment
+    - Goal
+    - Link
+    - CreatedBy
+    - CreatedOn
+    - lastShowed
+    - Updatedby
+    - UpdatedOn
+
 ## MockUp Screens
 
 ### Home Page
