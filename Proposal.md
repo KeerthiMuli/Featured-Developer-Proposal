@@ -27,3 +27,10 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
   <li> Front-end responsive design: Bootstrap and Flex </li>
   </ol>
 
+### Entities
+
+### MockUp Screens
+
+### References
+
+
