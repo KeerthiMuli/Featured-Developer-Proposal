@@ -26,6 +26,10 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
   <li> Front-end page plan : Vue </li>
   <li> Front-end responsive design: Bootstrap and Flex </li>
   </ol>
+  
+## ER Diagram
+![ER](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/ER.jpeg)
+
 
 ## Entities
 
