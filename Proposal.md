@@ -36,10 +36,10 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
 Entities used:
 
 - Users
-    - Email
+    - UserId
+    - UserName
     - Password
     - CreatedOn
-    - isDeleted
  - Developer
     - DeveloperId
     - FullName
