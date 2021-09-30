@@ -40,7 +40,7 @@ Entities used:
     - UserName
     - Password
     - CreatedOn
- - Developer
+ - Developers
     - DeveloperId
     - FullName
     - EmailAddress
