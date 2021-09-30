@@ -42,17 +42,12 @@ Entities used:
     - isDeleted
  - Developer
     - DeveloperId
-    - Name
+    - FullName
+    - EmailAddress
+    - Goals
     - Skills
-    - CurrentRole
-    - Phone
-    - Image
-    - Attainment
-    - Goal
-    - Link
-    - CreatedBy
-    - CreatedOn
-    - lastShowed
+    - LinkedInURL
+    - GitHubURL
     - Updatedby
     - UpdatedOn
 
