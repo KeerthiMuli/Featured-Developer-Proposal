@@ -48,6 +48,7 @@ Entities used:
     - Skills
     - LinkedInURL
     - GitHubURL
+    - Image
     - Updatedby
     - UpdatedOn
 
