@@ -49,8 +49,6 @@ Entities used:
     - LinkedInURL
     - GitHubURL
     - Image
-    - Updatedby
-    - UpdatedOn
 
 ## MockUp Screens
 
