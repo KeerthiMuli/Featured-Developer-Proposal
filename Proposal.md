@@ -17,6 +17,8 @@
   </ol>
   
 ## Client Tasks
+Please review the design and provide us your acceptance on the mock-up screens.
+An commit done by client indicates the approval of the design.
 
 ## Technology Stack
 <ol>
