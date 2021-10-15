@@ -9,12 +9,25 @@
 
 ![BudgetDetails](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Budget_Details.PNG)
 ## Scope of work
+### GDP1
 <ol>
-  <li>Sprint 1- Gathering Requirements, Knowing Specifications.</li>
-  <li>Sprint 2- Development.</li>
-  <li>Sprint 3- Continue Development.</li>
-  <li>Sprint 4- Testing and Implementation.</li>
+  <li> Sprint 1: Initiating</li>
+To start with we need to focus on what the requirements are and how are we going to achieve them and the keep a track of prerequisites needed for it and then design the page accordingly
+  <li>Sprint 2: Planning</li>
+Using the gathered prerequisites, we need to start planning how to implement them to get a user-friendly web application, for this we need to create mockup screens of the desired projects
+  <li>Sprint3: UI Design</li>
+With the help of mockup screens, we need to focus on how to create a home page, a login page and a page with all the featured developers
+  <li>Sprint 4: UI Implementation</li>
+After the designing we need to focus on implementing what we wanted, for this we are using Vuejs as a 
+Frontend stack using it we will start creating all the required pages
+  <li>Sprint 5: Database design and implementation</li>
+Starting with database installation and setup we need to design tables and gather information of all the developers in the class add them to the database
+  <li>Sprint 6: Backend Design and Implementation</li>
+We need to create a project and download the dependencies and setup the project, then we need to establish connection the database, then create the repo, service and controller classes  
+  <li>Sprint 7: Testing and Deployment</li>
+Once all the Designing and implementation is done, we need to perform few tests on the webpage to make sure if we have built a error free webpage
   </ol>
+   
   
 ## Client Tasks
 Please review the design and provide us your acceptance on the mock-up screens.
