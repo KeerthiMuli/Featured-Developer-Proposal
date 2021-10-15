@@ -27,6 +27,16 @@ We need to create a project and download the dependencies and setup the project,
   <li>Sprint 7: Testing and Deployment</li>
 Once all the Designing and implementation is done, we need to perform few tests on the webpage to make sure if we have built a error free webpage
   </ol>
+  
+  ### GDP2
+  <ol>
+  <li>Enhanced UI Design</li>
+  <li>Database and Backend Enhancement Design</li>
+  <li>PWA Implementation</li>
+  <li>Testing and Deployement</li>
+  <li>Monitoring and controlling</li>
+  <li>Closing</li>
+  </ol>
    
   
 ## Client Tasks
