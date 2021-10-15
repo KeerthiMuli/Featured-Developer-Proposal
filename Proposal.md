@@ -7,6 +7,7 @@
 | 1    | [Rasagna Reddy Banda](https://github.com/Rasagna0409/)           | Front-End Developer  | $50 |   9 |  $450  |
 | 2    | [Keerthi Muli](https://github.com/KeerthiMuli/)                   | Back-end Developer | $50 | 9  | $450 |
 
+![BudgetDetails](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/BudgetDetails.PNG)
 ## Scope of work
 <ol>
   <li>Sprint 1- Gathering Requirements, Knowing Specifications.</li>
