@@ -20,6 +20,8 @@
 Please review the design and provide us your acceptance on the mock-up screens.
 An commit done by client indicates the approval of the design.
 
+Proposal has be Approved by Amulya Baddam 
+
 ## Technology Stack
 <ol>
   <li> Backend language + framework: Java/SpringBoot </li>
