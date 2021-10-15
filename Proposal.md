@@ -28,7 +28,7 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
   </ol>
   
 ## ER Diagram
-![ER](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/ER.jpeg)
+![ER](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/ERDiagram%20.jpeg)
 
 
 ## Entities
