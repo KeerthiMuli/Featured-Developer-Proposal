@@ -17,7 +17,6 @@
   </ol>
   
 ## Client Tasks
-Please provide us your acceptance and feedback on the mock-up screens, as well as the essential approvals for the Technology Stack.
 
 ## Technology Stack
 <ol>
