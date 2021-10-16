@@ -1,6 +1,6 @@
 # Proposal for Featured Developer
 ## Schedule
-![Schedule](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Schedule.PNG)
+![Schedule](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Schedule_Details.PNG)
 ## Budget
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
