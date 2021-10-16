@@ -81,6 +81,9 @@ Entities used:
 
 ## MockUp Screens
 
+### Welcome Page
+![Welcome Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Welcomepage.PNG)
+
 ### Login Page
 ![Login page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Login%20page.PNG)
 
