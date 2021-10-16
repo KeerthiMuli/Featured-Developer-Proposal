@@ -87,8 +87,8 @@ Entities used:
 ### Login Page
 ![Login page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Login%20page.PNG)
 
-### Developers Details Page
-![Developes Details Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/page2.jpg)
+### View All Page
+![View All Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Viewall.PNG)
 
 ## References
 [Reference Link1](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)<br /> 
