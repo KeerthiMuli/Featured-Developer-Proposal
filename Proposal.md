@@ -1,22 +1,51 @@
 # Proposal for Featured Developer
 ## Schedule
-Set by the GDP semesters (about every 2-weeks = a sprint)
+![Schedule](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Schedule_Details.PNG)
 ## Budget
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
-| 1    | [Rasagna Reddy Banda](https://github.com/Rasagna0409/)           | Front-End Developer  | $50 |   9 - 12 |  $450 - $600 |
-| 2    | [Keerthi Muli](https://github.com/KeerthiMuli/)                   | Back-end Developer | $50 | 9 - 12 | $450 - $600 |
+| 1    | [Rasagna Reddy Banda](https://github.com/Rasagna0409/)           | Front-End Developer  | $50 |   9 |  $450  |
+| 2    | [Keerthi Muli](https://github.com/KeerthiMuli/)                   | Back-end Developer | $50 | 9  | $450 |
 
+![BudgetDetails](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Budget_Details.PNG)
 ## Scope of work
+### GDP1
 <ol>
-  <li>Sprint 1- Gathering Requirements, Knowing Specifications.</li>
-  <li>Sprint 2- Development.</li>
-  <li>Sprint 3- Continue Development.</li>
-  <li>Sprint 4- Testing and Implementation.</li>
+  <li> Sprint 1: Initiating</li>
+To start with we need to focus on what the requirements are and how are we going to achieve them and the keep a track of prerequisites needed for it and then design the page accordingly
+  <li>Sprint 2: Planning</li>
+Using the gathered prerequisites, we need to start planning how to implement them to get a user-friendly web application, for this we need to create mockup screens of the desired projects
+  <li>Sprint3: Designing</li>
+ For designing mockup screens we need to have a structure to build the screens so as per the instructions we are having a random developer info in the opening screen so we need to design the page accordingly and then finalise the font and alignment and features that need to be shown on the screens
+  <li>Sprint3: UI Design</li>
+With the help of mockup screens, we need to focus on how to create a home page, a login page and a page with all the featured developers
+  <li>Sprint 4: UI Implementation</li>
+After the designing we need to focus on implementing what we wanted, for this we are using Vuejs as a 
+Frontend stack using it we will start creating all the required pages
+  <li>Sprint 5: Database design and implementation</li>
+Starting with database installation and setup we need to design tables and gather information of all the developers in the class add them to the database
+  <li>Sprint 6: Backend Design and Implementation</li>
+We need to create a project and download the dependencies and setup the project, then we need to establish connection the database, then create the repo, service and controller classes  
+  <li>Sprint 7: Testing and Deployment</li>
+Once all the Designing and implementation is done, we need to perform few tests on the webpage to make sure if we have built a error free webpage
   </ol>
   
+  ### GDP2
+  <ol>
+  <li>Sprint1: Enhanced UI Design</li>
+  <li>Sprint2: Database and Backend Enhancement Design</li>
+  <li>Sprint3: PWA Implementation</li>
+  <li>Sprint4: Testing and Deployement</li>
+  <li>Sprint5: Monitoring and controlling</li>
+  <li>Sprint6: Closing</li>
+  </ol>
+   
+  
 ## Client Tasks
-Please provide us your acceptance and feedback on the mock-up screens, as well as the essential approvals for the Technology Stack.
+Please review the design and provide us your acceptance on the mock-up screens.
+An commit done by client indicates the approval of the design.
+
+Proposal has be Approved by Amulya Baddam 
 
 ## Technology Stack
 <ol>
@@ -28,7 +57,7 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
   </ol>
   
 ## ER Diagram
-![ER](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/ER.jpeg)
+![ER](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/ERDiagram%20.jpeg)
 
 
 ## Entities
@@ -36,25 +65,19 @@ Please provide us your acceptance and feedback on the mock-up screens, as well a
 Entities used:
 
 - Users
-    - Email
+    - Id
+    - UserName
     - Password
-    - CreatedOn
-    - isDeleted
- - Developer
+    - LoggedIn
+ - Developers
     - DeveloperId
-    - Name
+    - FullName
+    - EmailAddress
+    - Goals
     - Skills
-    - CurrentRole
-    - Phone
+    - LinkedInURL
+    - GitHubURL
     - Image
-    - Attainment
-    - Goal
-    - Link
-    - CreatedBy
-    - CreatedOn
-    - lastShowed
-    - Updatedby
-    - UpdatedOn
 
 ## MockUp Screens
 
@@ -65,5 +88,7 @@ Entities used:
 ![Developes Details Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/page2.jpg)
 
 ## References
-[Reference Link](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)
+[Reference Link1](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)<br /> 
+[Reference Link2](https://github.com/Dixith1196/THE-HUNT)
+
 
