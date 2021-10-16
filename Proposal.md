@@ -15,6 +15,8 @@
 To start with we need to focus on what the requirements are and how are we going to achieve them and the keep a track of prerequisites needed for it and then design the page accordingly
   <li>Sprint 2: Planning</li>
 Using the gathered prerequisites, we need to start planning how to implement them to get a user-friendly web application, for this we need to create mockup screens of the desired projects
+  <li>Sprint3: Designing</li>
+ For designing mockup screens we need to have a structure to build the screens so as per the instructions we are having a random developer info in the opening screen so we need to design the page accordingly and then finalise the font and alignment and features that need to be shown on the screens
   <li>Sprint3: UI Design</li>
 With the help of mockup screens, we need to focus on how to create a home page, a login page and a page with all the featured developers
   <li>Sprint 4: UI Implementation</li>
