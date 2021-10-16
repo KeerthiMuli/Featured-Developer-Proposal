@@ -30,12 +30,12 @@ Once all the Designing and implementation is done, we need to perform few tests 
   
   ### GDP2
   <ol>
-  <li>Enhanced UI Design</li>
-  <li>Database and Backend Enhancement Design</li>
-  <li>PWA Implementation</li>
-  <li>Testing and Deployement</li>
-  <li>Monitoring and controlling</li>
-  <li>Closing</li>
+  <li>Sprint1: Enhanced UI Design</li>
+  <li>Sprint2: Database and Backend Enhancement Design</li>
+  <li>Sprint3: PWA Implementation</li>
+  <li>Sprint4: Testing and Deployement</li>
+  <li>Sprint5: Monitoring and controlling</li>
+  <li>Sprint6: Closing</li>
   </ol>
    
   
