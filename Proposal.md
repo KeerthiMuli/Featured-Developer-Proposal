@@ -1,5 +1,5 @@
 # Proposal for Featured Developer
-## APP Focus:
+## APP Focus
 This App mainly focus to provide information about the developers in the GDP class.
 ## Schedule
 ![Schedule](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Schedule_Details.PNG)
