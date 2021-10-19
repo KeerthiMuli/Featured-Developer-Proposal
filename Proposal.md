@@ -41,6 +41,10 @@ Once all the Designing and implementation is done, we need to perform few tests 
   <li>Sprint5: Monitoring and controlling</li>
   <li>Sprint6: Closing</li>
   </ol>
+  
+## Link to Issue tracker
+![Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
+
    
   
 ## Client Tasks
