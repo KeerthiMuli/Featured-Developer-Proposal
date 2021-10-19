@@ -43,7 +43,7 @@ Once all the Designing and implementation is done, we need to perform few tests 
   </ol>
   
 ## Link to Issue tracker
-![Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
+[Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
 
    
   
