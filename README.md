@@ -12,4 +12,4 @@
  ## [Link to Backend deployed version](https://featured-developers-threeb.herokuapp.com/developers/getall)
  ## [Link to Frontend Repo](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-FrontEnd)
  ## [Link to Backend Repo](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-backend)
- ## [Link to Sample data](data.csv)
+
