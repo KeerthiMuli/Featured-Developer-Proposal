@@ -8,3 +8,4 @@
 <ol>
 
  ## [Link to RFP ](https://github.com/akhilmallepally/featured-developers/)
+ ## [Link to proposal](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/Proposal.md)
