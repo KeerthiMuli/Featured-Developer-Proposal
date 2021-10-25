@@ -10,3 +10,5 @@
  ## [Link to RFP ](https://github.com/akhilmallepally/featured-developers/)
  ## [Link to proposal](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/Proposal.md)
  ## [Link to Backend deployed version](https://featured-developers-threeb.herokuapp.com/developers/getall)
+ ## [Link to Frontend Repo](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-FrontEnd)
+
