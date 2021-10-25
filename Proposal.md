@@ -98,6 +98,9 @@ Entities used:
 ### View All Page
 ![View All Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Viewall.PNG)
 
+## Sample Data
+[Link to Sample data](data.csv)
+
 ## References
 [Reference Link1](https://github.com/AbhiRam0099/Proposal4A/blob/main/Proposal.md)<br /> 
 [Reference Link2](https://github.com/Dixith1196/THE-HUNT)
