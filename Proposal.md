@@ -45,7 +45,9 @@ Once all the Designing and implementation is done, we need to perform few tests 
 ## Link to Issue tracker
 [Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
 
-   
+## Link to Project Board
+[Project Board](https://github.com/KeerthiMuli/Featured-Developer-Proposal/projects/1)
+
   
 ## Client Tasks
 Please review the design and provide us your acceptance on the mock-up screens.
