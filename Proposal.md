@@ -53,7 +53,7 @@ Once all the Designing and implementation is done, we need to perform few tests 
 Please review the design and provide us your acceptance on the mock-up screens.
 An commit done by client indicates the approval of the design.
 
-Proposal has be Approved by Amulya Baddam 
+Proposal has been Approved by Amulya Baddam 
 
 ## Technology Stack
 <ol>
