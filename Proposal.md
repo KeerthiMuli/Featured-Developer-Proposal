@@ -19,27 +19,27 @@ To start with we need to focus on what the requirements are and how are we going
 Using the gathered prerequisites, we need to start planning how to implement them to get a user-friendly web application, for this we need to create mockup screens of the desired projects
   <li>Sprint3: Designing</li>
  For designing mockup screens we need to have a structure to build the screens so as per the instructions we are having a random developer info in the opening screen so we need to design the page accordingly and then finalise the font and alignment and features that need to be shown on the screens
-  <li>Sprint3: UI Design</li>
+  <li>Sprint4: UI Design</li>
 With the help of mockup screens, we need to focus on how to create a home page, a login page and a page with all the featured developers
-  <li>Sprint 4: UI Implementation</li>
+  <li>Sprint5: UI Implementation</li>
 After the designing we need to focus on implementing what we wanted, for this we are using Vuejs as a 
 Frontend stack using it we will start creating all the required pages
-  <li>Sprint 5: Database design and implementation</li>
+  <li>Sprint6: Database design and implementation</li>
 Starting with database installation and setup we need to design tables and gather information of all the developers in the class add them to the database
-  <li>Sprint 6: Backend Design and Implementation</li>
+  <li>Sprint7: Backend Design and Implementation</li>
 We need to create a project and download the dependencies and setup the project, then we need to establish connection the database, then create the repo, service and controller classes  
-  <li>Sprint 7: Testing and Deployment</li>
+  <li>Sprint8: Testing and Deployment</li>
 Once all the Designing and implementation is done, we need to perform few tests on the webpage to make sure if we have built a error free webpage
   </ol>
   
   ### GDP2
   <ol>
-  <li>Sprint1: Enhanced UI Design</li>
-  <li>Sprint2: Database and Backend Enhancement Design</li>
-  <li>Sprint3: PWA Implementation</li>
-  <li>Sprint4: Testing and Deployement</li>
-  <li>Sprint5: Monitoring and controlling</li>
-  <li>Sprint6: Closing</li>
+  <li>Sprint9: Enhanced UI Design</li>
+  <li>Sprint10: Database and Backend Enhancement Design</li>
+  <li>Sprint11: PWA Implementation</li>
+  <li>Sprint12: Testing and Deployement</li>
+  <li>Sprint13: Monitoring and controlling</li>
+  <li>Sprint14: Closing</li>
   </ol>
   
 ## Link to Issue tracker
