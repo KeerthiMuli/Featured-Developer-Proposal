@@ -8,9 +8,9 @@
 <ol>
 
  ## [Link to RFP ](https://github.com/akhilmallepally/featured-developers/)
- ## [Link to proposal](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/Proposal.md)
- ## [Link to Backend deployed version](https://featured-developers-threeb.herokuapp.com/developers/getall)
- ## [Link to Frontend deployed version](https://featureddeveloper.herokuapp.com/#/home)
+ ## [Link to Proposal](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/Proposal.md)
+ ## [Link to Backend Deployed Version](https://featured-developers-threeb.herokuapp.com/developers/getall)
+ ## [Link to Frontend Deployed Version](https://featureddeveloper.herokuapp.com/#/home)
  ## [Link to Frontend Repo](https://github.com/sagajayakumar/FeaturedDeveloperVue)
  ## [Link to Backend Repo](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-backend)
  ## [Link to Wiki](https://github.com/KeerthiMuli/Featured-Developer-Proposal/wiki)
