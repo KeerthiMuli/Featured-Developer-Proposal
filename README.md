@@ -15,4 +15,4 @@
  ## [Link to Backend Repo](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-backend)
  ## [Link to Wiki](https://github.com/KeerthiMuli/Featured-Developer-Proposal/wiki)
  ## [Link to Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
-
+ ## [Link to Project Board](https://github.com/KeerthiMuli/Featured-Developer-Proposal/projects/1)
