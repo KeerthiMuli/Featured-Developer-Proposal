@@ -14,4 +14,5 @@
  ## [Link to Frontend Repo](https://github.com/sagajayakumar/FeaturedDeveloperVue)
  ## [Link to Backend Repo](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-backend)
  ## [Link to Wiki](https://github.com/KeerthiMuli/Featured-Developer-Proposal/wiki)
+ ## [Link to Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
 
