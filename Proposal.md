@@ -39,9 +39,9 @@ Once all the Designing and implementation is done, we need to perform few tests 
   <li>Sprint11: Implement Initial Actions/Features</li>
   <li>Sprint12: Addition Of Initial Testing</li>
   <li>Sprint13: Quality Reviews Started</li>
-  <li>Sprint13: Release - Beta</li>
-  <li>Sprint14: Release - Final</li>
-  <li>Sprint15: Final Demo/Presentation</li>
+  <li>Sprint14: Release - Beta</li>
+  <li>Sprint15: Release - Final</li>
+  <li>Sprint16: Final Demo/Presentation</li>
   </ol>
   
 ## Link to Issue tracker
