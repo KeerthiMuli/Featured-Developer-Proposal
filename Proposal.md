@@ -34,12 +34,14 @@ Once all the Designing and implementation is done, we need to perform few tests 
   
   ### GDP2
   <ol>
-  <li>Sprint9: Enhanced UI Design</li>
-  <li>Sprint10: Database and Backend Enhancement Design</li>
-  <li>Sprint11: PWA Implementation</li>
-  <li>Sprint12: Testing and Deployement</li>
-  <li>Sprint13: Monitoring and controlling</li>
-  <li>Sprint14: Closing</li>
+  <li>Sprint9: Personal Contributions</li>
+  <li>Sprint10: Start GitHub Pages Site</li>
+  <li>Sprint11: Implement Initial Actions/Features</li>
+  <li>Sprint12: Addition Of Initial Testing</li>
+  <li>Sprint13: Quality Reviews Started</li>
+  <li>Sprint13: Release - Beta</li>
+  <li>Sprint14: Release - Final</li>
+  <li>Sprint15: Final Demo/Presentation</li>
   </ol>
   
 ## Link to Issue tracker
