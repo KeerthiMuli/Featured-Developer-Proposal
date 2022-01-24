@@ -42,6 +42,7 @@ Once all the Designing and implementation is done, we need to perform few tests 
   <li>Sprint14: Release - Beta</li>
   <li>Sprint15: Release - Final</li>
   <li>Sprint16: Final Demo/Presentation</li>
+  <li>Sprint17: Outcomes</li>
   </ol>
   
 ## Link to Issue tracker
