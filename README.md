@@ -1,4 +1,5 @@
-# Featured-Developer-Proposal
+# Featured-Developer-Proposal![download](https://user-images.githubusercontent.com/77706824/156862081-393ed184-53bb-4d70-8477-6bdd9ba77e3a.jpg)
+
 <ol>
 <li> We intend to use Java as the backend language with SpringBoot as Framework, as it facilitates the development of rapid app solutions.</li>
 <li> Heroku as backend free app host, as it enables to host our code in various languages relatively easily.</li>
@@ -16,3 +17,4 @@
  ## [Link to Wiki](https://github.com/KeerthiMuli/Featured-Developer-Proposal/wiki)
  ## [Link to Issue Tracker](https://github.com/KeerthiMuli/Featured-Developer-Proposal/milestones)
  ## [Link to Project Board](https://github.com/KeerthiMuli/Featured-Developer-Proposal/projects/1)
+ ## [Link to Code Coverage](https://sagajayakumar.github.io/featured_developer_code_coverage/)
