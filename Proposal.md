@@ -98,7 +98,7 @@ Entities used:
 ![Login page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Login%20page.PNG)
 
 ### View All Page
-![View All Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Viewall.PNG)
+![View All Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/DevelopersList.png?raw=true)
 
 ## Sample Data
 [Link to Sample data](data.csv)
