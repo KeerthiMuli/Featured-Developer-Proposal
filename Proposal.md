@@ -95,7 +95,7 @@ Entities used:
 ![Welcome Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Homepage.png?raw=true)
 
 ### Login Page
-![Login page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Login%20page.PNG)
+![Login page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Aut0Login.PNG?raw=true)
 
 ### View All Page
 ![View All Page](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/DevelopersList.png?raw=true)
