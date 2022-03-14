@@ -1,8 +1,6 @@
 # Proposal for Featured Developer
 ## APP Focus
 This App mainly focus to provide information about the developers in the GDP class.
-## Schedule
-![Schedule](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Schedule_Details.PNG)
 ## Budget
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
@@ -11,8 +9,6 @@ This App mainly focus to provide information about the developers in the GDP cla
 | 3   | [Jaya Kumar Saga](https://github.com/sagajayakumar/)           | Full Stack Developer | $50 |   9 |  $450  |
 | 4   | [Shiva Ram Kothapally](https://github.com/shivaramkothapally)                   | Quality Analyst | $50 | 9  | $450 |
 
-
-![BudgetDetails](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Budget_Details.PNG)
 ## Scope of work
 ### GDP1
 <ol>
