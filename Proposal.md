@@ -8,6 +8,9 @@ This App mainly focus to provide information about the developers in the GDP cla
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
 | 1    | [Rasagna Reddy Banda](https://github.com/Rasagna0409/)           | Front-End Developer  | $50 |   9 |  $450  |
 | 2    | [Keerthi Muli](https://github.com/KeerthiMuli/)                   | Back-end Developer | $50 | 9  | $450 |
+| 3   | [Jaya Kumar Saga](https://github.com/sagajayakumar/)           | Full Stack Developer | $50 |   9 |  $450  |
+| 4   | [Shiva Ram Kothapally](https://github.com/shivaramkothapally)                   | Quality Analyst | $50 | 9  | $450 |
+
 
 ![BudgetDetails](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/images/Budget_Details.PNG)
 ## Scope of work
