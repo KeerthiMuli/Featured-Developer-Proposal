@@ -8,7 +8,7 @@
  <li> We are planning for Bootstrap and Flex for Front-end responsive design.</li>
 <ol>
 
- ## [Link to RFP ](https://github.com/akhilmallepally/featured-developers/)
+ 
  ## [Link to Proposal](https://github.com/KeerthiMuli/Featured-Developer-Proposal/blob/main/Proposal.md)
  ## [Link to Backend Deployed Version](https://featured-developers-threeb.herokuapp.com/developers/getall)
  ## [Link to Frontend Deployed Version](https://featureddeveloper.herokuapp.com/#/home)
