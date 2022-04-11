@@ -1,4 +1,4 @@
-# Featured-Developer-Proposal![download](https://user-images.githubusercontent.com/77706824/156862081-393ed184-53bb-4d70-8477-6bdd9ba77e3a.jpg)
+# Featured-Developer-Proposal
 
 <ol>
 <li> We intend to use Java as the backend language with SpringBoot as Framework, as it facilitates the development of rapid app solutions.</li>
